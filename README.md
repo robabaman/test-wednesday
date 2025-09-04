@@ -1,0 +1,2 @@
+# test-wednesday
+Exercises
